@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rnang0
 - 👀 I’m now working in ByteDance
-- 🌱 I’m currently learning Go
+- 🌱 This is my blog: https://rnang0.github.io/
